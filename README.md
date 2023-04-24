@@ -4,14 +4,10 @@ I'm Lior Geni, a junior full-stack developer and content creator. I enjoy creati
 <br> I'm thrilled to start my adventure in the industry, hoping to contribute my passion and skills to help whenever needed.
 
 
-- 💬 My skills:
-<br>
-JavaScript, TypeScript, React.js, Node.js, Express, Vue, Angular, Socket.io, OOP
-<br>
-FrontEnd Web Technologies: CSS, SCSS, Canvas, Three.js
-<br>
-Databases: SQL (PostgreSQL), NoSQL (MongoDB)
-<br>
+- 💬 My skills: <br>
+JavaScript, TypeScript, React.js, Node.js, Express, Vue, Angular, Socket.io, OOP  <br>
+FrontEnd Web Technologies: CSS, SCSS, Canvas, Three.js  <br>
+Databases: SQL (PostgreSQL), NoSQL (MongoDB)  <br>
 Tools: Git, Trello, Cloudflare, Render
 
 
