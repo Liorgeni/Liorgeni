@@ -8,11 +8,11 @@ I thrive on creating immersive gaming experiences, leveraging my background in f
 
 💬 Skills:
 
-Game Development: Unity (2D, 3D), C#
+Programing Languages: C#, JavaScript, TypeScript, React.js
 
-Full-Stack: JavaScript, TypeScript, React.js, Node.js, Express
+Game Development: Unity (2D, 3D), Canvas
 
-Frontend: HTML/CSS, Canvas, Three.js
+Back-End:  Node.js, Express
 
 Databases: SQL (PostgreSQL), NoSQL (MongoDB)
 
@@ -22,7 +22,7 @@ Tools: Git, Trello, Cloudflare, Render
 
 🌱 Currently Learning:
 
-Continuously honing my skills in Unity and C#, focusing on delivering exceptional gameplay and interactive experiences
+Continuously honing my skills in Unity and C#, focusing on delivering exceptional gameplay and interactive experiences.
 
 🔭 Current Focus:
 
